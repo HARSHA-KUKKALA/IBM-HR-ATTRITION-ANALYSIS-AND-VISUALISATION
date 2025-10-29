@@ -32,7 +32,5 @@ Built using Power BI / Tableau with:
 
 ## 🚀 Tech Stack
 - Python (Pandas, NumPy, Matplotlib)
-- Tableau / Power BI
+- Tableau
 - GitHub
-
-## 📦 Repository Structure
